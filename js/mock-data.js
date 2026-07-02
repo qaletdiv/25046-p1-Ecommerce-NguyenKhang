@@ -40,26 +40,6 @@ const MOCK_PRODUCTS = [
     featured: true
   },
   {
-    id: 5,
-    name: "[SGTVN] Kaido House KHMG191 Nissan Skyline GT-R R33 Kaido Works ADVAN",
-    brand: "Kaido House",
-    category: "Kaido House",
-    scale: "1:64",
-    price: 495000,
-    image: "https://images.unsplash.com/photo-1600712617803-2f6c31d9dc74?auto=format&fit=crop&w=900&q=80",
-    featured: true
-  },
-  {
-    id: 6,
-    name: "[SGTVN] Pop Race PRDC003 R33 GT-R Dark Chrome",
-    brand: "Pop Race",
-    category: "Pop Race",
-    scale: "1:64",
-    price: 429000,
-    image: "https://images.unsplash.com/photo-1617814076668-58d0a25b731e?auto=format&fit=crop&w=900&q=80",
-    featured: false
-  },
-  {
     id: 7,
     name: "[SGTVN] Mini GT Box Version MGT00807 Lamborghini Huracan Sterrato Blu Aegir",
     brand: "Mini GT",
